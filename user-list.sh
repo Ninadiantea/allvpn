@@ -10,6 +10,3 @@ cat /etc/diana/users/vless.txt
 echo ""
 echo "=== Trojan ==="
 cat /etc/diana/users/trojan.txt
-echo ""
-echo "=== Shadow ==="
-cat /etc/diana/users/shadow.txt
